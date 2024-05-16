@@ -1,4 +1,4 @@
 techstack:
   application:
-    - html1605:1.0.1
-    - css1605:1.0.1
+    - html:1.0.1
+    - css:1.0.1
