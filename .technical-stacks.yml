@@ -1,5 +1,5 @@
 techstack:
   application:
-    - html:1.0.5
-    - css:1.0.5
+    - html:1.0.6
+    - css:1.0.6
     - js:1.0.5
